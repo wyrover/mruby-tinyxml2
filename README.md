@@ -34,3 +34,5 @@ print xml.print
     <book type="novel" page="580"><![CDATA[TinyXML-2]]></book>
 </bookshelf>
 ```
+
+非常好的学习绑定到 C++ 类的方式
